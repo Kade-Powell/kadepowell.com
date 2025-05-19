@@ -1,0 +1,16 @@
+title: About Me
+description: Learn more about my journey as a full-stack engineer specializing in Vue.js-driven UIs, infrastructure automation, and crafting reliable developer tools.
+content: |
+  Hi, I'm **Kade Powell**, a full-stack engineer and network automation builder passionate about delivering systems that just work—intuitively, reliably, and at scale.
+  Over the past several years, I've worked across the stack on everything from internal tooling and automation to distributed infrastructure platforms. I’ve architected self‑hosted solutions, shipped intuitive UIs in Vue and React, and built systems that help organizations manage networks, users, and devices with confidence and clarity.
+
+  ### My Engineering Philosophy
+  I believe great engineering lives at the intersection of **clarity**, **resilience**, and **developer experience**. Whether I’m designing a RESTful API with FastAPI, building a modular frontend, or orchestrating automation, I aim for systems that are clean, predictable, and easy to evolve.
+  Simplicity, consistent patterns, and thoughtful decisions are core to how I build—whether it’s managing device configurations or streamlining workflows.
+
+  ### What Drives Me
+  I love solving real problems with code—especially the kind that help teams move faster and with more confidence. It’s incredibly rewarding to see fellow engineers rely on tools I’ve built to get their work done, day in and day out.
+
+  ### Beyond the Code
+  When I'm not deep in the stack, I'm spending time with my family, reading, enjoying the outdoors, and playing sports. I’m always on the lookout for the next challenge that combines performance, usability, and a dash of creative spark.
+  Thanks for stopping by. Feel free to browse my [projects](/projects) or [get in touch](/#contact) if you'd like to build something meaningful together!
