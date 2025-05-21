@@ -22,6 +22,7 @@
     "@nuxt/test-utils": "3.19.0",
     "@nuxt/ui-pro": "^3.1.2",
     "@unhead/vue": "^2.0.9",
+    "@vercel/analytics": "^1.5.0",
     "@vueuse/nuxt": "^13.2.0",
     "motion-v": "^1.0.2",
     "nuxt": "^3.17.3",
