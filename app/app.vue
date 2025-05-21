@@ -1,6 +1,7 @@
 <script setup lang="ts">
-const colorMode = useColorMode()
+import { Analytics } from '@vercel/analytics/nuxt'
 
+const colorMode = useColorMode()
 const color = computed(() => colorMode.value === 'dark' ? '#020618' : 'white')
 
 useHead({
@@ -41,6 +42,7 @@ const [{ data: navigation }, { data: files }] = await Promise.all([
 </script>
 
 <template>
+  <Analytics />
   <UApp>
     <NuxtLayout>
       <UMain class="relative">
